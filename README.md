@@ -2,7 +2,7 @@
 
 <a href="https://deeplearning.mit.edu/"><img src="https://deeplearning.mit.edu/files/images/mit_deep_learning.png"></a>
 
-This repository is a collection of tutorials for [MIT Deep Learning](https://deeplearning.mit.edu/) courses. More added as courses progress.
+这是是[MIT深度学习](https://deeplearning.mit.edu/)课程的教程集合。 随着课程的进展还会更新.
 
 ## Tutorial: Deep Learning Basics
 
