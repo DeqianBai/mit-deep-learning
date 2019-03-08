@@ -8,8 +8,7 @@
 
 <a href="https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb"><img src="https://i.imgur.com/j4FqBuR.gif"></a>
 
-This tutorial accompanies the [lecture on Deep Learning Basics](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U). It presents several concepts in deep learning, demonstrating the first two (feed forward and convolutional neural networks) and providing pointers to tutorials on the others. This is a good place to start.
-
+本教程附有[深度学习基础知识讲座] (https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U). 提供了7个架构范例的深度学习概述，每个范例都有TensorFlow教程的链接
 Links: \[ [Jupyter Notebook](https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb) \]
 \[ [Google Colab](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb) \]
 \[ [Blog Post](https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0) \]
