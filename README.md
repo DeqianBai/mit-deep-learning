@@ -15,29 +15,30 @@ Links: \[ [Jupyter Notebook](https://github.com/lexfridman/mit-deep-learning/blo
 \[ [Lecture Video](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U) \]
 
 
-## Tutorial: Driving Scene Segmentation
+## 教程：驾驶场景分割
 
 <a href="https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb"><img src="images/thumb_driving_scene_segmentation.gif"></a>
 
-This tutorial demostrates semantic segmentation with a state-of-the-art model (DeepLab) on a sample video from the MIT Driving Scene Segmentation Dataset.
+本教程使用最先进的模型（DeepLab）对来自MIT驾驶场景分割数据集的样本视频进行语义分割。
 
 Links: \[ [Jupyter Notebook](https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb) \]
 \[ [Google Colab](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb) \]
 
-## Tutorial: Generative Adversarial Networks (GANs)
+## 教程: 生成对抗网络 (GANs)
 
 <a href="https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_gans/tutorial_gans.ipynb"><img src="images/thumb_mushroom_biggan.gif"></a>
 
-This tutorial explores generative adversarial networks (GANs) starting with BigGAN, the state-of-the-art conditional GAN.
+本教程从BigGAN开始探索生成对抗性网络（GAN），BigGAN是最先进的条件GAN。
+
 
 Links: \[ [Jupyter Notebook](https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_gans/tutorial_gans.ipynb) \]
 \[ [Google Colab](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_gans/tutorial_gans.ipynb) \]
 
-## DeepTraffic Deep Reinforcement Learning Competition
+## DeepTraffic深度强化学习比赛
 
 <a href="https://selfdrivingcars.mit.edu/deeptraffic"><img src="images/thumb_deeptraffic.gif"></a>
 
-DeepTraffic is a deep reinforcement learning competition. The goal is to create a neural network that drives a vehicle (or multiple vehicles) as fast as possible through dense highway traffic.
+DeepTraffic是一项深度强化学习竞赛。 目标是创建一个神经网络，通过密集的公路交通尽可能快地驾驶车辆（或多个车辆）。
 
 Links: \[ [GitHub](https://github.com/lexfridman/deeptraffic) \] \[ [Website](https://selfdrivingcars.mit.edu/deeptraffic) \] \[ [Paper](https://arxiv.org/abs/1801.02805) \]
 
